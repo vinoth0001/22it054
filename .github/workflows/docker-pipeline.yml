@@ -1,4 +1,4 @@
-name: docker-pipeline-saran
+name: docker-pipeline-vinoth
 on: push
 jobs:
   my-job:
